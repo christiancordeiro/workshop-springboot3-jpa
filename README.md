@@ -3,7 +3,7 @@
 
 # Sobre o projeto
 
-Este repositório é um projeto de um serviço web de CRUD (Create, Read, Update, Delete) desenvolvido com Java Spring Boot e utiliza o padrão JPA (Java Persistence API) para persistência de dados e PostgreeSQL para banco de dados.
+Este repositório é um projeto de um serviço web desenvolvido com Java Spring Boot e utiliza o padrão JPA (Java Persistence API) para persistência de dados e PostgreeSQL para banco de dados.
 
 # Objetivos:
 - Criar projeto Spring Boot Java;
